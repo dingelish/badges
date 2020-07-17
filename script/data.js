@@ -172,5 +172,12 @@ module.exports = [
             'Flash': { fileName: 'flash.svg', color: 'FE3A0C', description: 'A badge used for designing projects using Flash as a tool' },
             'Zeplin': { fileName: 'zeplin.svg', color: 'FDBD39', description: 'A badge used for designing projects with Zeplin' }
         }
+    }, {
+        name: 'School',
+        data: {
+            'PKU': {
+                fileName: 'pku.png', color: '94070A', description: 'A badge for Peking University'
+            },
+        }
     }
 ];

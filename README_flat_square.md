@@ -198,6 +198,11 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![flash](./src/flash_flat_square.svg)](https://aleen42.github.io/badges/src/flash_flat_square.svg) A badge used for designing projects using Flash as a tool
 - [![zeplin](./src/zeplin_flat_square.svg)](https://aleen42.github.io/badges/src/zeplin_flat_square.svg) A badge used for designing projects with Zeplin
 
+
+### School
+
+- [![pku](./src/pku_flat_square.svg)](https://aleen42.github.io/badges/src/pku_flat_square.svg) A badge for Peking University
+
 ### :fuelpump: How to contribute
 
 Have an idea? Found a bug? See [how to contribute](https://aleen42.github.io/PersonalWiki/contribution.html).
